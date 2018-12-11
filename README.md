@@ -1,4 +1,4 @@
-<img src='https://giphy.com/embed/8FD8pEY6IlqZNtFTQl' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/8FD8pEY6IlqZNtFTQl/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
