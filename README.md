@@ -1,8 +1,27 @@
+Vegetable Inventory App
+===================================
+
+This app allows the user to select the variety of vegetables, along with its corresponding price and quantity. 
+Used in a Udacity course in the Android Basics Nanodegree by Google.
+
+Pre-requisites
+--------------
+
+- Android SDK v24
+- Android Build Tools v23.0.3
+- Android Support Repository v24.1.1
+
+
+Submitted by: Shaunelle Thomsas
+
+
+## Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
 <img src='https://media.giphy.com/media/8FD8pEY6IlqZNtFTQl/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
+## License
 
-<iframe src="https://giphy.com/embed/8FD8pEY6IlqZNtFTQl" width="232" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8FD8pEY6IlqZNtFTQl">via GIPHY</a></p>
-
-
-![](name-of-giphy.gif)
+Copyright 2018 Shaunelle Thomas
