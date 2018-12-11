@@ -12,7 +12,7 @@ Pre-requisites
 - Android Support Repository v24.1.1
 
 
-Submitted by: Shaunelle Thomsas
+Submitted by: Shaunelle Thomas
 
 
 ## Walkthrough
